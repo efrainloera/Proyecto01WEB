@@ -1,0 +1,76 @@
+nav ul{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+    width: 50px;
+}
+nav li{
+    background-color: rgb(255, 255, 255);
+}
+.unico{
+    color: palevioletred;
+}
+.imagen{
+    max-width: 70px;
+    margin-top: -300px;
+    margin-left: 250px;
+}
+.primero{
+    margin-left: 200px;
+    margin-top: 100px;
+    color: rgb(128, 125, 123);
+
+}
+.boton{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    width: 150px;
+    mix-blend-mode: lighten;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-right: 1rem;
+    background: linear-gradient(90deg, rgb(35, 47, 224), rgb(201, 38, 146));
+}
+.primert{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.segundot{
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.imagen1{
+    max-width: 30px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.imagen2{
+    max-width: 30px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.imagen3{
+    max-width: 30px;
+    margin-top: 30px;
+    margin-left: 12px;
+}
+.imagen4{
+    max-width: 30px;
+    margin-top: 30px;
+    margin-left: 14px;
+}
+.imagen5{
+    max-width: 30px;
+    margin-top: 30px;
+    margin-left: 16px;
+}
