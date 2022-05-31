@@ -26,7 +26,7 @@ nav li{
 }
 .primero{
     margin-left: 200px;
-    margin-top: -200px;
+    margin-top: -500px;
     color: rgb(128, 125, 123);
 
 }
@@ -43,10 +43,10 @@ nav li{
 }
 .primert{
     margin-left: 200px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .segundot{
-    margin-top: 150px;
+    margin-top: 60px;
     margin-left: 200px;
     font-size: 50px;
 }
@@ -74,6 +74,16 @@ nav li{
     max-width: 30px;
     margin-top: 30px;
     margin-left: 16px;
+}
+.retr{
+    max-width: 150px;
+    margin-top: 0px;
+    margin-left: 940px;
+}
+.listado{
+    margin-top: 40px;
+    margin-left: 200px;
+    
 }
 
 .juego{
